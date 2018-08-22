@@ -11,6 +11,10 @@
 	],
 	"author": "roaringbunny",
 	"contributors": [],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/roaringbunny/BunnySurge.git"
+	},
 	"dependencies": {},
 	"devDependencies": {
 		"grunt": "^1.0.3",
