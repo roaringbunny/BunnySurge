@@ -1,0 +1,9 @@
+@import "https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css";
+@import "https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css";
+
+.navbar {
+	border-radius: 0;
+}
+.navbar + .breadcrumb {
+	margin-top: -20px;
+}

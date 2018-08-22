@@ -1,0 +1,21 @@
+{
+	"name": "BunnySurge",
+	"version": "1.0.0",
+	"private": true,
+	"keywords": [
+		"util",
+		"functional",
+		"server",
+		"client",
+		"browser"
+	],
+	"author": "roaringbunny",
+	"contributors": [],
+	"dependencies": {},
+	"devDependencies": {
+		"grunt": "^1.0.3",
+		"grunt-contrib-concat": "~0.5.0",
+		"grunt-contrib-copy": "^1.0.0",
+		"grunt-contrib-watch": "^1.0.0"
+	}
+}
